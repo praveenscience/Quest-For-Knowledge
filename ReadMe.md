@@ -1,3 +1,3 @@
-# Hacktoberfest: Unleashing your Potenital
+# Hacktoberfest: Unleashing your Potential
 
-Hey, I’m super lazy, someone please fill this in! Staert with points, correct all the mitsakes! 💪🏻
+Hey, I’m super lazy, someone please fill this in! Start with points, correct all the mistakes! 💪🏻
